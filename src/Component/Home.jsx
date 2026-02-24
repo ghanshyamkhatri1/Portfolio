@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Photo from "../assets/Photo.1.jpeg";
+import Photo from "../assets/photo.1.jpeg";
 import Resume from "../assets/Myresume.pdf";
 import { Download, ArrowRight } from "lucide-react";
 
