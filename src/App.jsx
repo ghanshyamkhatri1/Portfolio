@@ -1,10 +1,10 @@
-import React from "react";
 import Navbar from "./Component/Navbar"; 
 import Home from "./Component/Home";
 import { About } from "./Component/About";
 import { Skills } from "./Component/Skill";
 import { Projects } from "./Component/Projects";
 import Footer from "./Component/Footer";
+import { Contact } from "./Component/Contact";
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
         <About /> 
         <Skills /> 
         <Projects />
+        <Contact/>
       </main>
       <Footer/>
     </div>

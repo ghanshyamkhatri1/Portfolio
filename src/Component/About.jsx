@@ -87,7 +87,7 @@ export function About() {
                   +2 Science in Computer Science
                 </h4>
                 <p className="font-medium  text-blue-600">
-                  SushmaSecondarySchool
+                  Sushma Secondary School
                 </p>
               </div>
               
@@ -96,6 +96,8 @@ export function About() {
                 <span style={{ color: '#475569' }}>2021 - 2023 </span>
               </div>
             </div>
+
+            
           </motion.div>
         </div>
       </div>

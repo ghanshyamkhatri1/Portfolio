@@ -13,7 +13,7 @@ export function Skills() {
     {
       icon: Globe,
       title: 'Web Development',
-      skills: ['HTML', 'Tailwind CSS', 'JavaScript', 'React'],
+      skills: ['HTML', 'Tailwind  CSS', 'JavaScript', 'React'],
       color: '#7C3AED',
       gradient: 'from-purple-600 to-purple-400'
     },
